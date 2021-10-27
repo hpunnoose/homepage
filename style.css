@@ -3,10 +3,10 @@ body {
     padding:2px;
 }
 form input{  
-  height: 32px;
-  width: 359px;
+  height: 34px;
+  width: 368px;
   margin:3;
-margin-top: 60px;
+margin-top: 68px;
 color: rgb(196, 160, 114);
 
   }
@@ -39,7 +39,7 @@ CLOCK
  #clock{
    position: absolute;
    bottom:20px;
-   right:30px;
+   right:53px;
    font-size:30px;
    color:rgb(179, 147, 105);
  }
