@@ -6,7 +6,7 @@ form input{
   height: 34px;
   width: 368px;
   margin:3;
-margin-top: 68px;
+margin-top: 48px;
 color: rgb(196, 160, 114);
 
   }
@@ -39,7 +39,7 @@ CLOCK
  #clock{
    position: absolute;
    bottom:20px;
-   right:53px;
+   right:32px;
    font-size:30px;
    color:rgb(179, 147, 105);
  }
