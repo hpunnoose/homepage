@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(218, 205, 189);
+    padding:2px;
+}
+form input{  
+  height: 32px;
+  width: 359px;
+  margin:3;
+margin-top: 60px;
+color: rgb(196, 160, 114);
+
+  }
+  
+ /*
+=================================================
+BOOKMARKS
+=================================================
+*/
+.bookmarks{
+  padding:20px;
+}
+.bookmarks a{
+  font-size:31px;
+  margin: 55px;
+  color:rgb(206, 177, 138);
+  transition:.15s;
+  padding: 26px;
+  text-decoration: none;
+}
+.bookmarks a:hover{
+  font-size:35px;
+  position:relative;
+}
+/*
+=================================================
+CLOCK
+=================================================
+ */
+ #clock{
+   position: absolute;
+   bottom:20px;
+   right:30px;
+   font-size:30px;
+   color:rgb(179, 147, 105);
+ }
+  
+
